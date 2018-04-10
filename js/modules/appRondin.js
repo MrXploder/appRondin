@@ -1,0 +1,1 @@
+var appRondin = angular.module('appRondin', ['ngStorage', 'angular-loading-bar', 'angularUtils.directives.dirPagination', 'ui.materialize']);
